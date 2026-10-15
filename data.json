@@ -181,7 +181,7 @@
   "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
-  "slots_title": "Popular Slots at EmberBet Casino",
+  "slots_title": "Top Online Slots at HighSpin Casino",
   "bonus_title": "HighSpin Casino: Welcome Package",
   "get_bonus_btn_text": "Get Bonus",
   "redirect_link": "/play/",
@@ -362,10 +362,10 @@
       "question": "What is the minimum withdrawal limit at HighSpin Casino?"
     }
   ],
-  "_generated_at": "2026-10-15T16:49:53.434Z",
+  "_generated_at": "2026-10-15T16:52:03.825Z",
   "_version": "1.0.0",
   "html_head_alt": "highspin baner",
   "content_alt": "highspin bonus",
-  "_last_deploy": "2026-10-15T16:49:54.090Z",
-  "_deploy_trigger": "42p1t"
+  "_last_deploy": "2026-10-15T16:52:04.569Z",
+  "_deploy_trigger": "bxulng"
 }
