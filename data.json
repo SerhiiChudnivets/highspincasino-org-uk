@@ -211,31 +211,25 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Games",
+      "label": "Login",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Bonuses",
+      "label": " Withdrawal",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": " Sports",
+      "label": "Bonus",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": " App",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Payments",
+      "label": "Slots",
       "submenu": [],
       "openInNewTab": false
     }
@@ -243,7 +237,7 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "About us",
+      "label": "Responsible Gaming",
       "submenu": [],
       "openInNewTab": false
     },
@@ -255,13 +249,25 @@
     },
     {
       "link": "/play/",
-      "label": "General Terms & Conditions",
+      "label": "Cookies Policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Contact",
+      "label": " Betting Rules",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Terms & Conditions",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contacts",
       "submenu": [],
       "openInNewTab": false
     }
@@ -356,10 +362,10 @@
       "question": "What is the minimum withdrawal limit at HighSpin Casino?"
     }
   ],
-  "_generated_at": "2026-10-15T16:42:52.914Z",
+  "_generated_at": "2026-10-15T16:45:41.129Z",
   "_version": "1.0.0",
   "html_head_alt": "emberbet baner",
   "content_alt": "highspin bonus",
-  "_last_deploy": "2026-10-15T16:42:58.283Z",
-  "_deploy_trigger": "bbq66f"
+  "_last_deploy": "2026-10-15T16:45:41.805Z",
+  "_deploy_trigger": "b6g83t"
 }
