@@ -185,7 +185,7 @@
   "bonus_title": "HighSpin Casino: Welcome Package",
   "get_bonus_btn_text": "Get Bonus",
   "redirect_link": "/play/",
-  "home_name": "EmberBet Casino",
+  "home_name": "HighSpin Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
   "main_background": "#121420",
@@ -362,10 +362,10 @@
       "question": "What is the minimum withdrawal limit at HighSpin Casino?"
     }
   ],
-  "_generated_at": "2026-10-19T07:13:53.038Z",
+  "_generated_at": "2026-10-19T07:30:42.509Z",
   "_version": "1.0.0",
   "html_head_alt": "highspin baner",
   "content_alt": "highspin bonus",
-  "_last_deploy": "2026-10-19T07:13:53.742Z",
-  "_deploy_trigger": "8r34h"
+  "_last_deploy": "2026-10-19T07:30:43.123Z",
+  "_deploy_trigger": "aip39f"
 }
